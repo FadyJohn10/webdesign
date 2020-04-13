@@ -1,0 +1,34 @@
+body{background-color: #000;}
+
+.section-head{color: #fff;}
+
+/*************** start home page *******************/
+/* start upper nav section */
+
+.upper-nav{background-color: #131313;}
+
+.social-links a{color: #ccc;}
+
+.theme-box a{color: #ccc;}
+
+.upper-nav svg{color: #ccc;}
+
+/* start navbar  */
+
+.page-navbar{background-color: #000;}
+
+.page-navbar{border-bottom: 1px solid #131313;}
+
+.page-brand{color: #fff;}
+
+.page-navmenu a{color: #ccc}
+
+.page-navmenu a:hover{color: #fff;}
+
+/* start about page */
+
+.about-us{color: #ccc;}
+
+/* start vehicles page */
+
+.vehicles{color: #ccc;}
